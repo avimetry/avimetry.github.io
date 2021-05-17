@@ -1,5 +1,5 @@
 body {
-    background: rgb(54, 57, 61);
+    background: #36393e;
     margin: 0;
     overflow-x: hidden;
     margin-bottom: 15px !important;
@@ -23,11 +23,11 @@ div {
 }
 
 .buttons button:hover {
-    background-color: #111111
+    background-color: #32353a;
 }
 
 button {
-    background-color: #222222;
+    background-color: #2f3136;
     border: none;
     color: white;
     padding: 15px 32px;
